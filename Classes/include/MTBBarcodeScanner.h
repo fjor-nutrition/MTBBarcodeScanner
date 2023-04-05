@@ -1,0 +1,1 @@
+../ios/Scanners/MTBBarcodeScanner.h
